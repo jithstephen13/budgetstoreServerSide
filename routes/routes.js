@@ -38,28 +38,28 @@ Allroutes.post("/login",login)
 Allroutes.get("/user",Getuser)
 
 //Productes
-Allroutes.get("/Product" ,Getproduct)
-Allroutes.post("/product",Addproduct)
-Allroutes.patch("/product/:id",UpdateProduct)
-Allroutes.delete("/product/:id",DeleteProduct)
+Allroutes.get("/Productes/Product" ,Getproduct)
+Allroutes.post("/Productes/product",Addproduct)
+Allroutes.patch("/Productes/product/:id",UpdateProduct)
+Allroutes.delete("/Productes/product/:id",DeleteProduct)
 
 
 //categery
 
-Allroutes.get("/furnitur",GetFurniture)
-Allroutes.get("/Aplinces",GetAplinces)
-Allroutes.get("/Packeges",GetPackeges)
+Allroutes.get("/categery/furnitur",GetFurniture)
+Allroutes.get("/categery/Aplinces",GetAplinces)
+Allroutes.get("/categery/Packeges",GetPackeges)
 
 //cart operations
 
-Allroutes.get("/cart",authenticate,GetCart)
-Allroutes.post("/cart",authenticate,AddtoCart)
-Allroutes.patch("/cart/:id",authenticate,Updatecart)
-Allroutes.delete("/cart/:id",authenticate,Deletecart)
-Allroutes.delete("/cartMany/:id",authenticate,DeletecarMany)
+Allroutes.get("/cart/cart",authenticate,GetCart)
+Allroutes.post("/cart/cart",authenticate,AddtoCart)
+Allroutes.patch("/cart/cart/:id",authenticate,Updatecart)
+Allroutes.delete("/cart/cart/:id",authenticate,Deletecart)
+Allroutes.delete("/cart/cartMany/:id",authenticate,DeletecarMany)
 
-Allroutes.get("/Order",GetOrder)
-Allroutes.patch("/Order/:id",UpdateOrder)
+Allroutes.get("/order/Order",GetOrder)
+Allroutes.patch("/order/Order/:id",UpdateOrder)
 
 
 
