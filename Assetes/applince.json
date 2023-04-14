@@ -1,0 +1,37 @@
+[
+    {
+    "backgroundImage": "/public/images/category/appliances-bg/washing-machines.jpg",
+    "filterName": "Washing Machines",
+    "icons":"https://img.icons8.com/fluency/48/null/washing-machine.png"
+    },
+    {
+    "backgroundImage": "/public/images/category/appliances-bg/refrigerators-and-freezers.jpg",
+    "filterName": "refrigerators",
+    "icons":"https://img.icons8.com/external-icongeek26-outline-colour-icongeek26/64/null/external-refrigerator-electrical-devices-icongeek26-outline-colour-icongeek26.png"
+    },
+    {
+    "backgroundImage": "/public/images/category/appliances-bg/televisions.jpg",
+    "filterName": "Televisions",
+    "icons":"https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/null/external-television-hospitality-services-flaticons-lineal-color-flat-icons.png"
+    },
+    {
+    "backgroundImage": "/public/images/category/appliances-bg/air-conditioners.jpg",
+    "filterName": "Air Conditioners"
+    },
+    {
+    "backgroundImage": "/public/images/category/appliances-bg/air-purifiers.jpg",
+    "filterName": "Water & Air Purifiers"
+    },
+    {
+    "backgroundImage": "/public/images/category/appliances-bg/microwaves-and-induction-stoves.jpg",
+    "filterName": "Microwaves & Induction"
+    },
+    {
+    "backgroundImage": "/public/images/category/appliances-bg/air-coolers.jpg",
+    "filterName": "Air Coolers"
+    },
+    {
+    "backgroundImage": "/public/images/category/appliances-bg/dishwashers.jpg",
+    "filterName": "Dishwashers"
+    }
+    ]

@@ -1,0 +1,39 @@
+[
+    {
+    "backgroundImage": "/public/images/category/package-bg/bedroom-v1_new.jpg",
+    "filterName": "bedroom-furniture",
+    "icons":"https://img.icons8.com/clouds/100/null/bed.png"
+    },
+    {
+    "backgroundImage": "/public/images/category/package-bg/living-room-v2.jpg",
+    "filterName": "living-room-furniture",
+    "icons":"https://img.icons8.com/color/48/null/friends-armchair.png"
+
+    },
+    {
+    "backgroundImage": "/public/images/category/package-bg/appliances.jpg",
+    "filterName": "appliances-furniture",
+    "icons":"https://img.icons8.com/color/48/null/furniture.png"
+    },
+    {
+    "backgroundImage": "/public/images/category/package-bg/study-room-v1.jpg",
+    "filterName": "Work From Home (WFH)"
+   
+   
+    },
+    {
+    "backgroundImage": "/public/images/category/package-bg/dining-v1.jpg",
+    "filterName": "Kitchen & Dining" 
+   
+    },
+    {
+    "backgroundImage": "/public/images/category/package-bg/smart-packages.jpg",
+    "filterName": "Smart Home" 
+   
+    },
+    {
+    "backgroundImage": "/public/images/category/package-bg/fitness-packages.jpg",
+    "filterName": "Fitness & Exercise" 
+  
+    }
+    ]

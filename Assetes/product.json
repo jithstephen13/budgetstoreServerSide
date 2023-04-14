@@ -1,0 +1,588 @@
+[
+    {
+    "id": 81996,
+    "slug": "led-tv-32-inches",
+    "name": "LED TV - 32\"",
+    "minRentAmount": 839,
+    "categorySlug": "appliances",
+    "filterSlug": "Televisions",
+    "productImages": "//p.rmjo.in/productSquare/eztgdt5u"
+    },
+    {
+    "id": 101115,
+    "slug": "smart-led-tv-43-inches",
+    "name": "Smart LED TV - 43\"",
+    "minRentAmount": 1269,
+    "categorySlug": "appliances",
+    "filterSlug": "Televisions",
+    "productImages": "//p.rmjo.in/productSquare/6x7es84d"
+    },
+    {
+  
+    "id": 82003,
+    "slug": "led-tv-40-inches", 
+    "name": "LED TV - 40\"",
+    "minRentAmount": 1269,   
+    "categorySlug": "appliances",
+    "filterSlug": "Televisions",
+    "productImages": "//p.rmjo.in/productSquare/e2nc1yzg"
+    },
+    {  
+    "id": 10107  ,  
+    "slug": "led-tv-24-inches",  
+    "name": "LED TV -  24\"", 
+    "minRentAmount": 569, 
+    "categorySlug": "appliances",  
+    "filterSlug": "Televisions",
+    "productImages": "//p.rmjo.in/productSquare/h62xocvl"
+    },
+    { 
+    "id": 93517,
+    "slug": "smart-led-tv-55-inches", 
+    "name": "Smart LED TV- 55\"",  
+    "minRentAmount": 2349,   
+    "categorySlug": "appliances",   
+    "filterSlug": "Televisions",
+    "productImages": "//p.rmjo.in/productSquare/4bc5eken"
+    },
+    {   
+    "id": 101096,
+    "slug": "single-door-fridge-190-litre",  
+    "name": "Single Door Fridge (190 Litre)",    
+    "minRentAmount": 719,  
+    "categorySlug": "appliances",
+    "filterSlug": "refrigerators",
+    "productImages": "//p.rmjo.in/productSquare/bwskug14"
+    },
+    { 
+    "id": 113012,
+    "slug": "single-door-fridge-170-litre", 
+    "name": "Single Door Fridge (170 Litre)",   
+    "minRentAmount": 659,  
+    "categorySlug": "appliances",   
+         
+    "filterSlug": "refrigerators",
+    "productImages": "//p.rmjo.in/productSquare/ue88wnov"
+    },
+    { 
+    "id": 95507,
+    "slug": "double-door-fridge-240-litre",
+    "name": "Double Door Fridge (240 Litre)",  
+    "minRentAmount": 1049, 
+    "categorySlug": "appliances",
+    "filterSlug": "refrigerators",
+    "productImages": "//p.rmjo.in/productSquare/caskfrhd"
+    },
+    { 
+    "id": 5031,
+    "slug": "mini-refrigerator",
+    "name": "Mini Fridge",  
+    "minRentAmount": 449, 
+    "categorySlug": "appliances",
+    
+      
+  
+    "filterSlug": "refrigerators",
+    "productImages": "//p.rmjo.in/productSquare/x0to9y4x"
+    },
+    {
+    
+    
+    "id": 3974,
+    "slug": "old-single-door-fridge",
+    
+   
+    "name": "Single Door Fridge (210 Litre)",
+ 
+    "minRentAmount": 809,
+    
+    "categorySlug": "appliances",
+    
+      
+ 
+    "filterSlug": "refrigerators",
+    "productImages": "//p.rmjo.in/productSquare/ry27prsa"
+    },
+    {
+    
+    
+    "id": 18128,
+    "slug": "deep-freezer",
+    
+   
+    "name": "Deep Freezer  (100L)",
+  
+    "minRentAmount": 719,
+   
+    "categorySlug": "appliances",
+ 
+      
+ 
+   
+    "filterSlug": "refrigerators",
+    "productImages": "//p.rmjo.in/productSquare/q9dex9vc"
+    },
+    {
+    
+    
+    "id": 106123,
+    "slug": "single-door-fridge-190ltr-2s",
+    
+   
+    "name": "Single Door Fridge (190 Litre - 2s)",
+    
+    "minRentAmount": 1189,
+   
+    "categorySlug": "appliances",
+ 
+    "filterSlug": "refrigerators",
+    "productImages": "//p.rmjo.in/productSquare/i0qsgyhl"
+    },
+    {
+    "id": 78535,
+    "slug": "poise-basic-study-room",
+  
+    "name": "WFH Corner",
+    "minRentAmount": 428,
+ 
+    "categorySlug": "packages",
+    "filterSlug": "wfh-furniture",
+    "productImages": "//p.rmjo.in/productSquare/000ecat2"
+    },
+    {
+    "id": 7855   ,
+    "slug": "stuart-basic-study-room",
+ 
+    "name": "WFH Basic",
+    "minRentAmount": 348,
+    "categorySlug": "packages",
+    "filterSlug": "wfh-furniture",
+    "productImages": "//p.rmjo.in/productSquare/lqr8o3e0"
+    },
+    {
+    "id": 391   ,
+    "slug": "stuart-study-room",
+
+    "name": "WFH Premium",
+    "minRentAmount": 2386,
+    "categorySlug": "packages",
+    "filterSlug": "wfh-furniture",
+    "productImages": "//p.rmjo.in/productSquare/vobiz804"
+    },
+    {
+    "id": 389   ,
+    "slug": "felix-utility-study-room",
+    "name": "WFH Room",
+    "minRentAmount": 348,
+    "categorySlug": "packages",
+    "filterSlug": "wfh-furniture",
+    "productImages": "//p.rmjo.in/productSquare/6g4pkgpl"
+    },
+    {
+    "id": 105866,
+    "slug": "sheldon-table-morris-chair",
+    "name": "Sheldon Study Table & Morris Office Chair",
+    "minRentAmount": 368,
+    "categorySlug": "packages",
+    "filterSlug": "wfh-furniture",
+    "productImages": "//p.rmjo.in/productSquare/nn5pnup7"
+    },
+    {
+    "id": 105857,
+    "slug": "emily-table-morris-chair",
+    "name": "Emily Study Table & Morris Office Chair",
+    "minRentAmount": 378,
+    "categorySlug": "packages",
+    "filterSlug": "wfh-furniture",
+    "productImages": "//p.rmjo.in/productSquare/z25u3j7q"
+    },
+    {
+    "id": 105769,
+    "slug": "led-tv-40-amazon-fire-tv-stick",
+    "name": "LED TV 40\" & Amazon Fire TV Stick",
+    "minRentAmount": 1388,
+    "categorySlug": "packages",
+    "filterSlug": "appliances-furniture",
+    "productImages": "//p.rmjo.in/productSquare/0ad0io6i"
+    },
+    {
+    "id": 376,   
+    "slug": "washing-machine-fridge-combo",
+    "name": "Basic Appliances Combo",
+    "minRentAmount": 769,
+    "categorySlug": "packages",
+    "filterSlug": "appliances-furniture",
+    "productImages": "//p.rmjo.in/productSquare/hefcgyrk"
+    },
+    {
+    "id": 103393,
+    "slug": "single-door-fridge-170l-and-smart-led-tv-32-inch",
+    "name": "Single Door Fridge & Smart LED TV - 32\"",
+    "minRentAmount": 849,
+    "categorySlug": "packages",
+    "filterSlug": "appliances-furniture",
+    "productImages": "//p.rmjo.in/productSquare/14bgvutj"
+    },
+    {
+    "id": 104545,
+    "slug": "semi-automatic-washing-machine-and-single-door-fridge-170-litre",
+    "name": "Semi Automatic Washing Machine & Single Door Fridge",
+    "minRentAmount": 479,
+    "categorySlug": "packages",
+    "filterSlug": "appliances-furniture",
+    "productImages": "//p.rmjo.in/productSquare/kbf9qr21"
+    },
+    {
+    "id": 100669,
+    "slug": "single-bed-and-single-door-fridge-combo",
+    "name": "Napster Single Bed & Single Door Fridge Combo",
+    "minRentAmount": 249,
+    "categorySlug": "packages",
+    "filterSlug": "appliances-furniture",
+    "productImages": "//p.rmjo.in/productSquare/9zcbjtl3"
+    },
+    {
+    "id": 5433,
+    "slug": "kitchen-appliances-combo",
+    "name": "Kitchen Appliances Combo",
+    "minRentAmount": 299,
+    "categorySlug": "packages",
+    "filterSlug": "appliances-furniture",
+    "productImages": "//p.rmjo.in/productSquare/6lzz1ier"
+    },
+    {
+    "id": 3743,
+    "slug": "bedroom-basics",
+    "name": "Bedroom Basics",
+    "minRentAmount": 497,
+    "categorySlug": "packages",
+    "filterSlug": "bedroom-furniture",
+    "productImages": "//p.rmjo.in/productSquare/zicc89xk"
+    },
+    {
+    "id": 4902,
+    "slug": "magnum-queen-basic-bedroom",
+    "name": "Magnum Queen Basic Bedroom",
+    "minRentAmount": 758,
+    "categorySlug": "packages",
+    "filterSlug": "bedroom-furniture",
+    "productImages": "//p.rmjo.in/productSquare/d3oxumi1"
+    },
+    {
+    "id": 491   ,
+    "name": "Magnum Queen Master Bedroom",
+    "slug":"Magnum Queen Master Bedroom",
+    "minRentAmount": 1057,
+    "categorySlug": "packages",
+    "filterSlug": "bedroom-furniture",
+    "filterId": 34,
+    "productImages": "//p.rmjo.in/productSquare/2lbt66p0"
+    },
+    {
+    "id": 4917,
+    "slug": "napster-queen-basic-bedroom-new",
+    "name": "Napster Queen Basic Bedroom",
+    "minRentAmount": 319,
+    "categorySlug": "packages",
+    "filterSlug": "bedroom-furniture",
+    "productImages": "//p.rmjo.in/productSquare/owgqhfq2"
+    },
+    {
+    "id": 4939,
+    "slug": "napster-single-utility-bedroom-new",
+    "name": "Napster Single Utility Bedroom",
+    "minRentAmount": 348,
+    "categorySlug": "packages",
+    "filterSlug": "bedroom-furniture",
+    "productImages": "//p.rmjo.in/productSquare/yrmxe7or"
+    },
+    {
+    "id": 4953,
+    "slug": "napster-queen-utility-bedroom-new",
+    "name": "Napster Queen Utility Bedroom",
+    "minRentAmount": 667,
+    "categorySlug": "packages",
+    "filterSlug": "bedroom-furniture",
+    "productImages": "//p.rmjo.in/productSquare/ogz0kccm"
+    },
+    {
+    "id": 3841,
+    "slug": "living-room-basics",
+    "name": "Living Room Basics",
+    "minRentAmount": 667,
+    "categorySlug": "packages",
+    "filterSlug": "living-room-furniture",
+    "productImages": "//p.rmjo.in/productSquare/k8doz0rs"
+    },
+    {
+    "id": 3841,
+    "slug": "living-room-basics",
+    "name": "Living Room Basics",
+    "minRentAmount": 667,
+    "categorySlug": "packages",
+    "filterSlug": "living-room-furniture",
+    "productImages": "//p.rmjo.in/productSquare/k8doz0rs"
+    },
+    {
+    "id": 97333,
+    "slug": "sofa-and-bed-combo",
+    "name": "Sofa & Bed Combo",
+    "minRentAmount": 549,
+    "categorySlug": "packages",
+    "filterSlug": "bedroom-furniture",
+    "productImages": "//p.rmjo.in/productSquare/2agurqbp"
+    },
+    {
+    "id": 103401,
+    "slug": "two-door-wardrobe-and-shoe-rack-large",
+    "name": "Hutch 2-Door Wardrobe & Saddle Shoe Rack",
+    "minRentAmount": 189,
+    "categorySlug": "packages",
+    "filterSlug": "living-room-furniture",
+    "productImages": "//p.rmjo.in/productSquare/7b8s0svq"
+    },
+    {
+    "id": 105626,
+    "slug": "silly-mid-off-package",
+    "name": "Silly Mid Off Package",
+    "minRentAmount": 1269,
+    "categorySlug": "packages",
+    "filterSlug": "living-room-furniture",
+    "productImages": "//p.rmjo.in/productSquare/80tibdpi"
+    },
+    {
+    "id": 3782,
+    "slug": "felix-living-room",
+    "name": "Felix Living Room",
+    "minRentAmount": 1317,
+    "categorySlug": "packages",
+    "filterSlug": "living-room-furniture",
+    "productImages": "//p.rmjo.in/productSquare/ombiq0gi"
+    },
+    {
+    "id": 7195,
+    "slug": "heathcliff-living-room",
+   
+    "name": "Heathcliff Living Room",
+    "minRentAmount": 109,
+    "categorySlug": "packages",
+    "filterSlug": "living-room-furniture",
+    "productImages": "//p.rmjo.in/productSquare/sgb7rp7d"
+    },
+    {
+    "id": 3831,
+    "slug": "four-appliances-combo",
+    "name": "Ultima Appliances Combo",
+    "minRentAmount": 1857,
+   
+    "categorySlug": "packages",
+    "filterSlug": "appliances-furniture",
+    "productImages": "//p.rmjo.in/productSquare/ahqsdm86"
+    },
+    {
+    "id": 9626 ,  
+    "slug": "fridge-and-induction-cooktop",
+    "name": "Fridge & Induction Combo",
+    "minRentAmount": 868,
+    "categorySlug": "packages",
+    "filterSlug": "appliances-furniture",
+    "productImages": "//p.rmjo.in/productSquare/3x1d6hrp"
+    },
+    {
+    "id": 96387,
+    "slug": "queen-bed-fridge-and-top-load-washing-machine",
+    "name": "Double Bed with Fridge & Washing Machine",
+    "minRentAmount": 1588,
+    "categorySlug": "packages",
+    "filterSlug": "appliances-furniture",
+    "productImages": "//p.rmjo.in/productSquare/4c3pll7i"
+    },
+    {
+    "id": 97325,
+    "slug": "tv-fridge-and-washing-machine-combo",
+    "name": "TV with Fridge & Washing Machine",
+    "minRentAmount": 2318,
+    "categorySlug": "packages",
+    "filterSlug": "Televisions",
+    "filterSlug": "appliances-furniture",
+    "productImages": "//p.rmjo.in/productSquare/rz1t7cye"
+    },
+    {
+    "id": 103478,
+    "slug": "top-load-washing-machine-single-door-fridge-and-water-purifier",
+    "name": "Washing Machine with Fridge & Kent Water Purifier",
+    "minRentAmount": 2267,
+    "categorySlug": "packages",
+    "filterSlug": "appliances-furniture",
+    "productImages": "//p.rmjo.in/productSquare/zm9ao5np"
+    },
+    {
+
+    "id": 3544,
+    "slug": "dreamcatcher-queen-bed",
+    
+   
+    "name": "Kipper Wooden Queen Bed (6x5)",
+  
+    "minRentAmount": 809,
+    "categorySlug": "furniture",
+    "filterSlug": "beds",
+    "productImages": "//p.rmjo.in/productSquare/16ctgjip"
+    },
+    {
+    "id": 4777,
+    "slug": "poise-queen-bed",
+
+    "name": "Poise Wooden Queen Bed (6x5)",
+    "minRentAmount": 549,
+    "categorySlug": "furniture",
+    "filterSlug": "beds",
+    "productImages": "//p.rmjo.in/productSquare/70rj36m0"
+    },
+    {
+    "id": 4864,
+    "slug": "dreamcatcher-single-bed-new",
+    "name": "Kipper Wooden Single Bed (6x3)",
+    "minRentAmount": 609,
+    "categorySlug": "furniture",
+    "filterSlug": "beds",
+    "productImages": "//p.rmjo.in/productSquare/6gf1ht1e"
+    },
+    {
+    
+    
+    "id": 4789,
+    "slug": "poise-king-bed",
+    "name": "Poise Wooden King Bed (6x6)",
+    "minRentAmount": 669,
+    "categorySlug": "furniture",
+    "filterSlug": "beds",
+    "productImages": "//p.rmjo.in/productSquare/mhbh0ddk"
+    },
+    {
+    "id": 4646,
+    "slug": "magnum-wardrobe-1-door",
+    "name": "Magnum 1-Door Wardrobe",
+    "minRentAmount": 259,
+    "categorySlug": "furniture",
+    "filterSlug": "wardrobe-and-organizer",
+    "productImages": "//p.rmjo.in/productSquare/pagu0ofz"
+    },
+    {
+    "id": 101096,
+    "slug": "single-door-fridge-190-litre",
+    "name": "Single Door Fridge (190 Litre)",
+    "minRentAmount": 719,
+    "categorySlug": "appliances",
+    "filterSlug": "refrigerators",
+    "productImages": "//p.rmjo.in/productSquare/bwskug14"
+    },
+    {
+    
+    
+    "id": 113012,
+    "slug": "single-door-fridge-170-litre",
+    
+   
+    "name": "Single Door Fridge (170 Litre)",
+    "minRentAmount": 659,
+    "categorySlug": "appliances",
+    "filterSlug": "refrigerators",
+    "productImages": "//p.rmjo.in/productSquare/ue88wnov"
+    },
+    {
+    "id": 95507,
+    "slug": "double-door-fridge-240-litre",
+    "name": "Double Door Fridge (240 Litre)",
+    "minRentAmount": 1049,
+    "categorySlug": "appliances",
+    "filterSlug": "refrigerators",
+    "productImages": "//p.rmjo.in/productSquare/caskfrhd"
+    },
+    {
+    "id": 5031,
+    "slug": "mini-refrigerator",
+    "name": "Mini Fridge",
+    "minRentAmount": 449,
+    "categorySlug": "appliances",
+    "filterSlug": "refrigerators",
+    "productImages": "//p.rmjo.in/productSquare/x0to9y4x"
+    },
+    {
+   
+    "id": 3974,
+    "slug": "old-single-door-fridge",
+    "name": "Single Door Fridge (210 Litre)",
+    "minRentAmount": 809,
+    "categorySlug": "appliances",
+    "filterSlug": "refrigerators",
+    "productImages": "//p.rmjo.in/productSquare/ry27prsa"
+    },
+    {
+    
+    
+    "id": 18128,
+    "slug": "deep-freezer",
+    "name": "Deep Freezer  (100L)",
+    "minRentAmount": 719,
+    "categorySlug": "appliances",
+    "filterSlug": "refrigerators",
+    "productImages": "//p.rmjo.in/productSquare/q9dex9vc"
+    },
+    {
+    
+    
+    "id": 106123,
+    "slug": "single-door-fridge-190ltr-2s",
+    "name": "Single Door Fridge (190 Litre - 2s)",
+    "minRentAmount": 1189,
+    "categorySlug": "appliances",
+    "filterSlug": "refrigerators",
+    "productImages": "//p.rmjo.in/productSquare/i0qsgyhl"
+    },
+    {
+    "id": 105626,
+    "slug": "silly-mid-off-package",
+    "name": "Silly Mid Off Package",
+    "minRentAmount": 1269,
+    "categorySlug": "packages",
+    "filterSlug": "Televisions",
+    "productImages": "//p.rmjo.in/productSquare/80tibdpi"
+    },
+    {
+    "id": 105635,
+    "slug": "googly-package",
+    "name": "Googly Package",
+    "minRentAmount": 849,
+    "categorySlug": "packages",
+    "filterSlug": "Televisions",
+    "productImages": "//p.rmjo.in/productSquare/qoyhn76g"
+    },
+    {
+    "id": 97325,
+    "slug": "tv-fridge-and-washing-machine-combo",
+    "name": "TV with Fridge & Washing Machine",
+    "minRentAmount": 2318,
+    "categorySlug": "packages",
+    "filterSlug": "Televisions",
+    "productImages": "//p.rmjo.in/productSquare/rz1t7cye"
+    },
+    {
+    "id": 105758,
+    "slug": "led-tv-32-amazon-fire-tv-stick",
+    "name": "LED TV 32\" & Amazon Fire TV Stick",
+    "minRentAmount": 958,
+    "categorySlug": "packages",
+    "filterSlug": "Televisions",
+    "productImages": "//p.rmjo.in/productSquare/vbhnbchj"
+    },
+    {
+    "id": 105769,
+    "slug": "led-tv-40-amazon-fire-tv-stick",
+    "name": "LED TV 40\" & Amazon Fire TV Stick",
+    "minRentAmount": 1388,
+    "categorySlug": "packages",
+    "filterSlug": "Televisions",
+    "productImages": "//p.rmjo.in/productSquare/0ad0io6i"
+    }
+]

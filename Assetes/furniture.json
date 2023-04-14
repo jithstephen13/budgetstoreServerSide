@@ -1,0 +1,50 @@
+[
+    {
+    "backgroundImage": "/public/images/category/furniture-category-filter/Beds.jpg",
+    "filterName": "bedroom-furniture",
+    "icons":"https://img.icons8.com/clouds/100/null/bed.png"
+
+    },
+    {
+    "backgroundImage": "/public/images/category/furniture-category-filter/mattress_v1.jpg",
+    "filterName": "beds",
+    "icons":"https://img.icons8.com/color/48/null/friends-armchair.png"
+
+    },
+    {
+    "backgroundImage": "/public/images/category/furniture-category-filter/Wardrobes_and_Organiser.jpg",
+    "filterName": "Wardrobe & Organizer"
+    },
+    {
+    "backgroundImage": "/public/images/category/furniture-category-filter/Wardrobes_and_Organiser.jpg",
+    "filterName": "Wardrobe & Organizer"
+    },
+    {
+    "backgroundImage": "/public/images/category/furniture-category-filter/Bedside_Table.jpg",
+    "filterName": "Bedside Tables"
+    },
+    {
+    "backgroundImage": "/public/images/category/furniture-category-filter/Sofas.jpg",
+    "filterName": "Sofas"
+    },
+    {
+    "backgroundImage": "/public/images/category/furniture-category-filter/Day_Bed.jpg",
+    "filterName": "Sofa Bed & Day Bed"
+    },
+    {
+    "backgroundImage": "/public/images/category/furniture-category-filter/Recliner.jpg",
+    "filterName": "Recliner and Rocker"
+    },
+    {
+    "backgroundImage": "/public/images/category/furniture-category-filter/15_TV Units.png",
+    "filterName": "TV Units"
+    },
+    {
+    "backgroundImage": "/public/images/category/furniture-category-filter/101-dresser.png",
+    "filterName": "Dressers"
+    },
+    {
+    "backgroundImage": "/public/images/category/furniture-category-filter/16_Shoe Racks.png",
+    "filterName": "Shoe Racks"
+    }
+    ]
