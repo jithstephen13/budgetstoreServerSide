@@ -22,7 +22,7 @@ const { Deletecart, DeletecarMany } = require("../collection/Cart/Deletecart")
 
                     //midleware
 const { authenticate } = require("../middlewares/authmidileware")
-const { GetOrder } = require("../collection/Order/Get_Order")
+const { GetOrder, GetOrderByid } = require("../collection/Order/Get_Order")
 const { UpdateOrder } = require("../collection/Order/Update_Order")
 const { Getuser } = require("../collection/users/Getuser")
 
@@ -59,6 +59,7 @@ Allroutes.delete("/cart/cart/:id",authenticate,Deletecart)
 Allroutes.delete("/cart/cartMany/:id",authenticate,DeletecarMany)
 
 Allroutes.get("/order/Order",GetOrder)
+Allroutes.get("/order/Orderid/:id",GetOrderByid)
 Allroutes.patch("/order/Order/:id",UpdateOrder)
 
 
